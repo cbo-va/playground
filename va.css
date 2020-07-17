@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Vaillant_14";
+  font-display: block;
+  src: url(https://cdn01l.vaillant-group.com/main/vaillant/169.0/fonts/Vaillant14-book.woff)
+      format("woff"),
+    url(https://cdn01l.vaillant-group.com/main/vaillant/169.0/fonts/Vaillant14-book.ttf)
+      format("truetype");
+}
+
+body {
+  font-family: "Vaillant_14";
+}
